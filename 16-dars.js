@@ -1,0 +1,6 @@
+// console.log('sonning mutlaq qiymatini qaytaradi',Math.abs(3.9))
+// console.log('sonning arkkosinus (radyanlarda) qaytaradi',Math.acos(49))
+// console.log('sonning giperbolik arkkosinusini qaytaradi',Math.acosh(5.8))
+// console.log('sonning arkkosinus (radyanlarda) qaytaradi',Math.asin(3))
+console.log('sonning giperbolik arkkosinusini qaytaradi',Math.asinh(5.8))
+console.log('sonning arkkosinus qaytaradi (natijasi -/2 va /2 orasida bo`ladi)',Math.atan(9))
